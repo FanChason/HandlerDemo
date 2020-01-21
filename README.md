@@ -31,4 +31,5 @@ OvershootInterpolator 向前甩一定值后再回到原来位置
 ```
 
 参考：
+[Android 动画总结——View 动画、属性动画、帧动画](https://juejin.im/entry/58b3f07e570c35006932b067)
 [Interpolator 插值器](https://wiki.jikexueyuan.com/project/android-animation/2.html)
